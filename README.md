@@ -745,9 +745,9 @@ The cacheable methods are : all, paginate, find, findByField, findWhere, getByCr
 
 ### Validators
 
-Requires [prettus/laravel-validator](https://github.com/prettus/laravel-validator). `composer require prettus/laravel-validator`
+Requires [prettus/laravel-validator](https://github.com/prettus/laravel-validator). `composer require prettus/laravel-validation`
 
-Easy validation with `prettus/laravel-validator`
+Easy validation with `prettus/laravel-validation`
 
 [For more details click here](https://github.com/prettus/laravel-validator)
 
